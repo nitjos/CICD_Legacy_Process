@@ -8604,15 +8604,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\uipathrpa\\.nuget\\packages\\": {}
+    "C:\\Users\\RPATraining\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "CICD-Legacy-Process",
       "projectName": "CICD-Legacy-Process",
-      "projectPath": "C:\\Users\\uipathrpa\\Documents\\UiPath\\CICD-Legacy-Process\\.local",
-      "packagesPath": "C:\\Users\\uipathrpa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uipathrpa\\Documents\\UiPath\\CICD-Legacy-Process\\.local"
+      "projectPath": "C:\\Users\\RPATraining\\Documents\\UiPath\\CICD_Legacy_Process\\.local",
+      "packagesPath": "C:\\Users\\RPATraining\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RPATraining\\Documents\\UiPath\\CICD_Legacy_Process\\.local"
     },
     "frameworks": {
       "net461": {
@@ -8643,7 +8643,7 @@
             "version": "[21.10.2, 21.10.2]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\uipathrpa\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\RPATraining\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
